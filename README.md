@@ -1,6 +1,6 @@
 # CarOwners
 
-[Udemy Challenge](https://www.udemy.com/course/learn-android-application-development-y/learn/lecture/11638724#content) that allows users to view a phone in landscape orientation and view a list of car owners and access both the car information and owner information.
+[Udemy Challenge](https://www.udemy.com/course/learn-android-application-development-y/learn/lecture/11638724#content) that allows users to view a phone in landscape orientation and see a list of car owners and access both the car information and owner information.
 
 Components:
 - Fragments
